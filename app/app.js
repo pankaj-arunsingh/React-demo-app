@@ -29,7 +29,7 @@ var App=React.createClass({
 
 var InboxPane=React.createClass({
   renderInboxItem:function(human){
-    return <InboxItem key={human} index={human} details={this.props.human[human]}/>
+    return <InboxItem key={human} index={human} details={this.props.humans[human]}/>
   },
   render:function(){
     return(
