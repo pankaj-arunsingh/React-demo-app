@@ -1,5 +1,5 @@
 {
-  "name": "bot manager app",
+  "name": "pizza-bot-manager",
   "version": "0.1.0",
   "description": "Sample app for the React JavaScript Framework.",
   "main": "./PizzaBot/server.js",
