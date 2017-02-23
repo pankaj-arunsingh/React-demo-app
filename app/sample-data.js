@@ -1,4 +1,58 @@
 module.exports = {
+  "stores": {
+    "Bon Fire Pizza in Kogarah": {
+      "orders": [
+        {
+          "human": "Pankaj Singh",
+          "time": new Date(2017, 4, 5, 15, 11, 45, 0),
+          "pizzas": [{
+            "toppings": "Prons",
+            "size": "S"
+          }],
+          "price": 11,
+          "address": "48 Railway Parade, Kogarah NSW 2217",
+          "status": "In The Oven" // status := Open -> Confirmed -> In The Oven -> Delivered
+        },
+        {
+          "human": "Dhirendra Singh",
+          "time": new Date(2017, 4, 4, 20, 31, 0, 0),
+          "pizzas": [{
+            "toppings": ["cheese","Prons","capsicum"],
+            "size": "XL"
+          }],
+          "price": 13,
+          "address": "48 Railway Parade, Kogarah NSW 2217",
+          "status": "Delivered" // status := Open -> Confirmed -> In The Oven -> Delivered
+        }
+      ]
+    },
+    "Dominos Carlton": {
+      "orders": [
+        {
+          "human": "Anu Pandey",
+          "time": new Date(2017, 4, 5, 15, 11, 45, 0),
+          "pizzas": [{
+            "toppings": ["Veggies","Paneer"],
+            "size": "S"
+          }],
+          "price": 11,
+          "address": "48 Railway Parade, Kogarah NSW 2217",
+          "status": "In The Oven" // status := Open -> Confirmed -> In The Oven -> Delivered
+        },
+        {
+          "human": "Bharat Yerra",
+          "time": new Date(2017, 4, 4, 20, 31, 0, 0),
+          "pizzas": [{
+            "toppings": ["cheese","Prons","capsicum"],
+            "size": "XL"
+          }],
+          "price": 13,
+          "address": "48 Railway Parade, Kogarah NSW 2217",
+          "status": "Delivered" // status := Open -> Confirmed -> In The Oven -> Delivered
+        }
+      ]
+    }
+  },
   "humans": {
     "Pankaj Singh" : {
       "conversations": [
