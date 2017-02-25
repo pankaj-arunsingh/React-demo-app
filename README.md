@@ -1,9 +1,10 @@
 # React-demo-app
-This is a startup project to learn react and its feature. I will be building a bot chapping application on the go.
+This is a startup project to learn react and its feature. I will be building a bot chatting application on the go.
 ## Dependencies:
 * React
 * Babel
 * Webpack
+
 Steps after downloading the zip project.
 1. Unzip the project
 2. Install webpack dev server as per commands below
