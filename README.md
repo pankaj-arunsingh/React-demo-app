@@ -6,6 +6,7 @@ This is a startup project to learn react and its feature. I will be building a b
 * Webpack
 
 Steps after downloading the zip project.
+#
 1. Unzip the project
 2. Install webpack dev server as per commands below
 3. Do npm install to install project dependencies
