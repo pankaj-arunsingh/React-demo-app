@@ -11,13 +11,16 @@ Steps after downloading the zip project.
 2. Install webpack dev server as per commands below
 3. Do npm install to install project dependencies
 4. run webpack dev server as per command below and start developing.
-## How to Run Debug Server
 
-Make sure you have the Webpack dev server installed: 
+
+## Make sure you have the Webpack dev server installed: 
 
 > npm install -g webpack webpack-dev-server
  and then to start server with build
+ 
+ ## How to Run Debug Server
  > npm run start-webpack-server
+ 
 ## To Add Visual Studio Code Intellisense
 
 Run typings to install the React/JSX typings.
