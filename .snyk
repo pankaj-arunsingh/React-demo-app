@@ -8,3 +8,8 @@ patch:
         patched: '2019-07-04T04:47:10.303Z'
     - restify > restify-errors > lodash:
         patched: '2019-07-04T04:47:10.303Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-05T04:47:54.313Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-05T04:47:54.313Z'
