@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/pankaj-arunsingh/React-demo-app/blob/master/README.md",
   "dependencies": {
-    "botbuilder": "^0.9.2",
+    "botbuilder": "^4.0.6",
     "express": "^4.13.4",
     "jquery": "^3.0.0",
     "react": "^15.0.2",
